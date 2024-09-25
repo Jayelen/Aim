@@ -1,2 +1,2 @@
-Code schol
+Codeschool
 Aim files
